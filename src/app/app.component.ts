@@ -11,7 +11,7 @@ import { HomeComponent } from "./pages/home/home.component";
     standalone: true,
     templateUrl: './app.component.html',
     styleUrl: './app.component.css',
-    imports: [RouterOutlet, SmallCardComponent, MenuBarComponent, BigCardComponent, MenuTitleComponent, HomeComponent ]
+    imports: [RouterOutlet, SmallCardComponent, MenuBarComponent, BigCardComponent, MenuTitleComponent, HomeComponent]
 })
 export class AppComponent {
   title = 'angular-blog';
