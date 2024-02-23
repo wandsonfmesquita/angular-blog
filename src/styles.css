@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+* {
+  background-color: aqua;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: flex-start;
+}
+
+a {
+  text-decoration: none;
+}
